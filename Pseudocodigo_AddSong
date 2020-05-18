@@ -1,0 +1,12 @@
+1	Abrir el navegador de preferencia y escribir en la barra de navegación la url: http://songs-by-sinatra.herokuapp.com/
+2	Dar clic al boton "log in" en el home del sitio.
+3	En la pagina log in, escribir en los campos usuario: frank y password: sinatra
+4	Una vez el usuario tecleo el usario y contraseña validos procede a dar clic en el boton "Log In".
+5	Navegar hacia la seccion "Songs" usando el Menu
+6	Usuario procede a crear una cancion en la url: http://songs-by-sinatra.herokuapp.com/songs/new
+7	El usuario teclea "Come fly with me" en el campo Title
+8	El usuario teclea 150 en el campo Length
+9	El usario selecciona "05/15/2020" del calendario que aparece al dar clic en el campo Date(mm/dd/yyyy)
+10	El uaurio escribe "Come fly fly fly" en el campo Lyrics.
+11	Una vez que los campos esten completos, dar clic en el boton "Save Song"
+12	El usario puede ver en pantalla los datos que ingreso previamente.
